@@ -10,6 +10,22 @@ To install the dependencies, run:
 npm install
 ```
 
+## Usage
+
+To start the application, run:
+
 ```sh
 npm start
 ```
+
+## Project Structure
+
+- `index.js`: The main entry point of the application.
+
+## Dependencies
+
+- `amqplib`: A library for interacting with AMQP (RabbitMQ).
+
+## License
+
+This project is licensed under the MIT License.
